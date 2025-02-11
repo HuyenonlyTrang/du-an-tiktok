@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1 className={clsx(style.title, style.content)}>
-        Sosssssss
+        Sossssssss
       </h1>
       <p>Cau oi</p>
     </div>
